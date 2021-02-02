@@ -1,0 +1,4 @@
+
+## 功能如下
+增加lume对mycat的 /*#mycat:db_type=master*/ 前缀支持
+
